@@ -7,10 +7,16 @@
 👩🏻‍💻 Intenté aprender diferentes lenguajes y herramientas, entre ellos:
 
 • HTML
+
 • CSS
+
 • SCSS
+
 • JavaScript
+
 • React
+
 • Firebase
+
 • Express
 
