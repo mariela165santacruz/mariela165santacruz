@@ -1,6 +1,6 @@
-## Hola!👋🏻 Soy Mari.
+# Hola!👋🏻 Soy Mari.
 
-# Bienvenidos a mi portfolio en GitHub! Una parte de mi:)
+## Bienvenidos a mi portfolio en GitHub! Una parte de mi:)
 
 💪🏻 Actualmente estoy estudiando para ser Fullstack Developer.
 
