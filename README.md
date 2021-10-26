@@ -20,3 +20,10 @@
 
 • Express
 
+🌱 Actualmente estoy aprendiendo Node.js
+
+👯 Estoy buscando colaborar en proyectos basados en JavaScript
+
+📫 Comuníquese conmigo en mariela165santacruz @ gmail.com
+
+⚡ Dato curioso me encuentro estudiando Ingeniería en Sistemas de Información📚  
