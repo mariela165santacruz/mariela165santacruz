@@ -27,3 +27,6 @@
 📫 Comuníquese conmigo en mariela165santacruz @ gmail.com
 
 ⚡ Dato curioso me encuentro estudiando Ingeniería en Sistemas de Información📚  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mariela165santacruz/github-readme-stats)
+
