@@ -20,7 +20,9 @@
 
 • Express
 
-🌱 Actualmente estoy aprendiendo Node.js
+• Node.js
+
+🌱 Actualmente estoy aprendiendo bases de datos
 
 👯 Estoy buscando colaborar en proyectos basados en JavaScript
 
